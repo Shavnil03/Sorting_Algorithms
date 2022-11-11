@@ -1,15 +1,13 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Bubble_Sort;
+
+/*
+   Shabneel Kumar
+   S11184954
+   This is a fully functional genric bubble sort Algorithm code in java
+*/
  
 import java.util.List;
-
-/**
- *
- * @author user
- */
+ 
 public class Bubble_Sort {
      public int counter_B;
 
