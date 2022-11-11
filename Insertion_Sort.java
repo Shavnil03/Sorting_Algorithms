@@ -1,16 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package Insertion_Sort;
+
+/*
+   Shabneel Kumar
+   S11184954
+   This is a fully functional genric Insertion sort Algorithm code in java
+*/
 
 import java.util.ArrayList; 
 import java.util.List;
-
-/**
- *
- * @author user
- */
+ 
 public class Insertion_Sort {
 
     public int counter_I;
