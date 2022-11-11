@@ -7,7 +7,8 @@ package Main;
    This program calls genric sorting algorithm (Insertion, Bubble and Merge)
    Tests the algorithm with standard benchmark problems
    Performs empircal testing => finding SR,Best,Min,Avg Number fo counter values
-   Using multi-threading the the races all the sorting algorithm simultaneously and finds the winner of the race
+   Using multi-threading the the races all the sorting algorithm simultaneously and finds the winner of the race graphically 
+   Graphs are implemented through the use of Matlab Application
 */
 
 import java.awt.BorderLayout;
