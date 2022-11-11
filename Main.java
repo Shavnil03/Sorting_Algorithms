@@ -1,8 +1,14 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 package Main;
+
+/*
+   Shabneel Kumar
+   S11184954
+   This is a fully functional "main" GUI code in java
+   This program calls genric sorting algorithm (Insertion, Bubble and Merge)
+   Tests the algorithm with standard benchmark problems
+   Performs empircal testing => finding SR,Best,Min,Avg Number fo counter values
+   Using multi-threading the the races all the sorting algorithm simultaneously and finds the winner of the race
+*/
 
 import java.awt.BorderLayout;
 import java.io.File;
